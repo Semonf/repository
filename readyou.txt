@@ -1,9 +1,4 @@
 you one
 ilvo
 77
-<<<<<<< HEAD
-pocket fether
-=======
-pocket
-second
->>>>>>> feature1
+999999
